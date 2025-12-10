@@ -1,6 +1,6 @@
 # Hướng dẫn biên dịch:  
 ## Bước 1: Tạo thư mục build  
-mkdir buid
+mkdir buid  
 cd build  
 ## Bước 2: Biên dịch từng file  
 g++ -c ../FileHandle/FileHandler.cpp -o FileHandler.o  
