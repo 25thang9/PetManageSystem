@@ -1,0 +1,2 @@
+Dog	Tom	3	Black	Pug	Nguyen Van A
+Cat	Mèo Tam Thể Siêu Cute	2	Trắng Xám	Mèo Ta	Tran Thi B
