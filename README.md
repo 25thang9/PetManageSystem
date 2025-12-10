@@ -8,7 +8,7 @@ g++ -c ../Pet/Pet.cpp -o Pet.o
 g++ -c ../PetManager/PetManager.cpp -o PetManager.o   
 g++ -c ../main.cpp -o main.o
 ## Bước 3: Liên kết cà file sau khi biên dịch  
-g++ FileHandler.o Pet.o PetManager.o main.o -o DO_AN  
+g++ FileHandler.o Pet.o PetManager.o main.o -o DO_AN.exe  
 ## Bước 4: Chạy file  
-./DO_AN
+./DO_AN.exe
 
